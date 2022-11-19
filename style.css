@@ -1,0 +1,41 @@
+body{
+    overflow-x: hidden;
+}
+
+#nav-div{
+    background-color: rgb(226, 49, 5);
+    color: white;
+}
+#site-info{
+    background-color: rgb(226, 49, 5);
+}
+
+.navbar{
+    color: white;
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-item{
+    margin: 0 10px;
+    padding: 0px;
+    color: white;
+    text-decoration: none;
+}
+.hover:hover{
+    transform: scale(1.1);
+}
+
+.hor{
+    display: flex;
+    flex-direction: row;
+}
+
+.footer{
+ padding: 0 20px;
+}
+
+p{
+    font-size: 12px;
+    color: white;
+}
